@@ -1,0 +1,19 @@
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - Creo que necesito un préstamo\bin\Debug\net5.0\Ejercicio I01 - Creo que necesito un préstamo.exe
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - Creo que necesito un préstamo\bin\Debug\net5.0\Ejercicio I01 - Creo que necesito un préstamo.deps.json
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - Creo que necesito un préstamo\bin\Debug\net5.0\Ejercicio I01 - Creo que necesito un préstamo.runtimeconfig.json
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - Creo que necesito un préstamo\bin\Debug\net5.0\Ejercicio I01 - Creo que necesito un préstamo.runtimeconfig.dev.json
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - Creo que necesito un préstamo\bin\Debug\net5.0\Ejercicio I01 - Creo que necesito un préstamo.dll
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - Creo que necesito un préstamo\bin\Debug\net5.0\Ejercicio I01 - Creo que necesito un préstamo.pdb
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - Creo que necesito un préstamo\bin\Debug\net5.0\BibliotecaDeClases.dll
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - Creo que necesito un préstamo\bin\Debug\net5.0\BibliotecaDeClases.pdb
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - Creo que necesito un préstamo\obj\Debug\net5.0\Ejercicio I01 - Creo que necesito un préstamo.csproj.AssemblyReference.cache
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - Creo que necesito un préstamo\obj\Debug\net5.0\Ejercicio I01 - Creo que necesito un préstamo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - Creo que necesito un préstamo\obj\Debug\net5.0\Ejercicio I01 - Creo que necesito un préstamo.AssemblyInfoInputs.cache
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - Creo que necesito un préstamo\obj\Debug\net5.0\Ejercicio I01 - Creo que necesito un préstamo.AssemblyInfo.cs
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - Creo que necesito un préstamo\obj\Debug\net5.0\Ejercicio I01 - Creo que necesito un préstamo.csproj.CoreCompileInputs.cache
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - Creo que necesito un préstamo\obj\Debug\net5.0\Ejercicio I01 - Creo que necesito un préstamo.csproj.CopyComplete
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - Creo que necesito un préstamo\obj\Debug\net5.0\Ejercicio I01 - Creo que necesito un préstamo.dll
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - Creo que necesito un préstamo\obj\Debug\net5.0\refint\Ejercicio I01 - Creo que necesito un préstamo.dll
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - Creo que necesito un préstamo\obj\Debug\net5.0\Ejercicio I01 - Creo que necesito un préstamo.pdb
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - Creo que necesito un préstamo\obj\Debug\net5.0\Ejercicio I01 - Creo que necesito un préstamo.genruntimeconfig.cache
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - Creo que necesito un préstamo\obj\Debug\net5.0\ref\Ejercicio I01 - Creo que necesito un préstamo.dll

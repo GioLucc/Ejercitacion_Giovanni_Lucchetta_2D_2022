@@ -1,0 +1,16 @@
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - Máximo, mínimo y promedio\bin\Debug\net5.0\Ejercicio I01 - Máximo, mínimo y promedio.exe
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - Máximo, mínimo y promedio\bin\Debug\net5.0\Ejercicio I01 - Máximo, mínimo y promedio.deps.json
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - Máximo, mínimo y promedio\bin\Debug\net5.0\Ejercicio I01 - Máximo, mínimo y promedio.runtimeconfig.json
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - Máximo, mínimo y promedio\bin\Debug\net5.0\Ejercicio I01 - Máximo, mínimo y promedio.runtimeconfig.dev.json
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - Máximo, mínimo y promedio\bin\Debug\net5.0\Ejercicio I01 - Máximo, mínimo y promedio.dll
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - Máximo, mínimo y promedio\bin\Debug\net5.0\Ejercicio I01 - Máximo, mínimo y promedio.pdb
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - Máximo, mínimo y promedio\obj\Debug\net5.0\Ejercicio I01 - Máximo, mínimo y promedio.csproj.AssemblyReference.cache
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - Máximo, mínimo y promedio\obj\Debug\net5.0\Ejercicio I01 - Máximo, mínimo y promedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - Máximo, mínimo y promedio\obj\Debug\net5.0\Ejercicio I01 - Máximo, mínimo y promedio.AssemblyInfoInputs.cache
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - Máximo, mínimo y promedio\obj\Debug\net5.0\Ejercicio I01 - Máximo, mínimo y promedio.AssemblyInfo.cs
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - Máximo, mínimo y promedio\obj\Debug\net5.0\Ejercicio I01 - Máximo, mínimo y promedio.csproj.CoreCompileInputs.cache
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - Máximo, mínimo y promedio\obj\Debug\net5.0\Ejercicio I01 - Máximo, mínimo y promedio.dll
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - Máximo, mínimo y promedio\obj\Debug\net5.0\refint\Ejercicio I01 - Máximo, mínimo y promedio.dll
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - Máximo, mínimo y promedio\obj\Debug\net5.0\Ejercicio I01 - Máximo, mínimo y promedio.pdb
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - Máximo, mínimo y promedio\obj\Debug\net5.0\Ejercicio I01 - Máximo, mínimo y promedio.genruntimeconfig.cache
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - Máximo, mínimo y promedio\obj\Debug\net5.0\ref\Ejercicio I01 - Máximo, mínimo y promedio.dll
