@@ -13,9 +13,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clase 2", "Clase 2", "{D7A2
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Anotaciones [Clase 2]", "Anotaciones [Clase 2]\Anotaciones [Clase 2].csproj", "{5ADDCC1B-7CB6-455E-A54B-D15F5ABF9483}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio I01 - Creo que necesito un préstamo", "Ejercicio I01 - Creo que necesito un préstamo\Ejercicio I01 - Creo que necesito un préstamo.csproj", "{A0668F84-0EE7-49FE-8BA8-B3A247263724}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio I01 - Creo que necesito un préstamo", "Ejercicio I01 - Creo que necesito un préstamo\Ejercicio I01 - Creo que necesito un préstamo.csproj", "{A0668F84-0EE7-49FE-8BA8-B3A247263724}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaDeClases", "BibliotecaDeClases\BibliotecaDeClases.csproj", "{4A3EB6C7-0500-4DAE-9891-761F7A66CD7A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BibliotecaDeClases", "BibliotecaDeClases\BibliotecaDeClases.csproj", "{4A3EB6C7-0500-4DAE-9891-761F7A66CD7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio I02 - Vos cuántas primaveras tenés", "Ejercicio I02 - Vos cuántas primaveras tenés\Ejercicio I02 - Vos cuántas primaveras tenés.csproj", "{5612EDF0-9ABE-4E24-8336-402ABB29D42B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -43,6 +45,10 @@ Global
 		{4A3EB6C7-0500-4DAE-9891-761F7A66CD7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A3EB6C7-0500-4DAE-9891-761F7A66CD7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A3EB6C7-0500-4DAE-9891-761F7A66CD7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5612EDF0-9ABE-4E24-8336-402ABB29D42B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5612EDF0-9ABE-4E24-8336-402ABB29D42B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5612EDF0-9ABE-4E24-8336-402ABB29D42B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5612EDF0-9ABE-4E24-8336-402ABB29D42B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -53,6 +59,7 @@ Global
 		{5ADDCC1B-7CB6-455E-A54B-D15F5ABF9483} = {D7A2BFF7-0522-42C2-BA0E-6D88CA232321}
 		{A0668F84-0EE7-49FE-8BA8-B3A247263724} = {D7A2BFF7-0522-42C2-BA0E-6D88CA232321}
 		{4A3EB6C7-0500-4DAE-9891-761F7A66CD7A} = {D7A2BFF7-0522-42C2-BA0E-6D88CA232321}
+		{5612EDF0-9ABE-4E24-8336-402ABB29D42B} = {D7A2BFF7-0522-42C2-BA0E-6D88CA232321}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {22252FEF-1937-4A26-93E4-57B85D8286DC}

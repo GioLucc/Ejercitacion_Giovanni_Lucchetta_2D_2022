@@ -1,0 +1,19 @@
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I02 - Vos cuántas primaveras tenés\bin\Debug\net5.0\Ejercicio I02 - Vos cuántas primaveras tenés.exe
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I02 - Vos cuántas primaveras tenés\bin\Debug\net5.0\Ejercicio I02 - Vos cuántas primaveras tenés.deps.json
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I02 - Vos cuántas primaveras tenés\bin\Debug\net5.0\Ejercicio I02 - Vos cuántas primaveras tenés.runtimeconfig.json
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I02 - Vos cuántas primaveras tenés\bin\Debug\net5.0\Ejercicio I02 - Vos cuántas primaveras tenés.runtimeconfig.dev.json
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I02 - Vos cuántas primaveras tenés\bin\Debug\net5.0\Ejercicio I02 - Vos cuántas primaveras tenés.dll
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I02 - Vos cuántas primaveras tenés\bin\Debug\net5.0\Ejercicio I02 - Vos cuántas primaveras tenés.pdb
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I02 - Vos cuántas primaveras tenés\bin\Debug\net5.0\BibliotecaDeClases.dll
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I02 - Vos cuántas primaveras tenés\bin\Debug\net5.0\BibliotecaDeClases.pdb
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I02 - Vos cuántas primaveras tenés\obj\Debug\net5.0\Ejercicio I02 - Vos cuántas primaveras tenés.csproj.AssemblyReference.cache
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I02 - Vos cuántas primaveras tenés\obj\Debug\net5.0\Ejercicio I02 - Vos cuántas primaveras tenés.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I02 - Vos cuántas primaveras tenés\obj\Debug\net5.0\Ejercicio I02 - Vos cuántas primaveras tenés.AssemblyInfoInputs.cache
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I02 - Vos cuántas primaveras tenés\obj\Debug\net5.0\Ejercicio I02 - Vos cuántas primaveras tenés.AssemblyInfo.cs
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I02 - Vos cuántas primaveras tenés\obj\Debug\net5.0\Ejercicio I02 - Vos cuántas primaveras tenés.csproj.CoreCompileInputs.cache
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I02 - Vos cuántas primaveras tenés\obj\Debug\net5.0\Ejercicio I02 - Vos cuántas primaveras tenés.csproj.CopyComplete
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I02 - Vos cuántas primaveras tenés\obj\Debug\net5.0\Ejercicio I02 - Vos cuántas primaveras tenés.dll
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I02 - Vos cuántas primaveras tenés\obj\Debug\net5.0\refint\Ejercicio I02 - Vos cuántas primaveras tenés.dll
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I02 - Vos cuántas primaveras tenés\obj\Debug\net5.0\Ejercicio I02 - Vos cuántas primaveras tenés.pdb
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I02 - Vos cuántas primaveras tenés\obj\Debug\net5.0\Ejercicio I02 - Vos cuántas primaveras tenés.genruntimeconfig.cache
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I02 - Vos cuántas primaveras tenés\obj\Debug\net5.0\ref\Ejercicio I02 - Vos cuántas primaveras tenés.dll
