@@ -1,0 +1,19 @@
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I03 - El ejemplo universal\bin\Debug\net5.0\Ejercicio I03 - El ejemplo universal.exe
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I03 - El ejemplo universal\bin\Debug\net5.0\Ejercicio I03 - El ejemplo universal.deps.json
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I03 - El ejemplo universal\bin\Debug\net5.0\Ejercicio I03 - El ejemplo universal.runtimeconfig.json
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I03 - El ejemplo universal\bin\Debug\net5.0\Ejercicio I03 - El ejemplo universal.runtimeconfig.dev.json
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I03 - El ejemplo universal\bin\Debug\net5.0\Ejercicio I03 - El ejemplo universal.dll
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I03 - El ejemplo universal\bin\Debug\net5.0\Ejercicio I03 - El ejemplo universal.pdb
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I03 - El ejemplo universal\bin\Debug\net5.0\BibliotecaDeClases.dll
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I03 - El ejemplo universal\bin\Debug\net5.0\BibliotecaDeClases.pdb
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I03 - El ejemplo universal\obj\Debug\net5.0\Ejercicio I03 - El ejemplo universal.csproj.AssemblyReference.cache
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I03 - El ejemplo universal\obj\Debug\net5.0\Ejercicio I03 - El ejemplo universal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I03 - El ejemplo universal\obj\Debug\net5.0\Ejercicio I03 - El ejemplo universal.AssemblyInfoInputs.cache
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I03 - El ejemplo universal\obj\Debug\net5.0\Ejercicio I03 - El ejemplo universal.AssemblyInfo.cs
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I03 - El ejemplo universal\obj\Debug\net5.0\Ejercicio I03 - El ejemplo universal.csproj.CoreCompileInputs.cache
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I03 - El ejemplo universal\obj\Debug\net5.0\Ejercicio I03 - El ejemplo universal.csproj.CopyComplete
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I03 - El ejemplo universal\obj\Debug\net5.0\Ejercicio I03 - El ejemplo universal.dll
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I03 - El ejemplo universal\obj\Debug\net5.0\refint\Ejercicio I03 - El ejemplo universal.dll
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I03 - El ejemplo universal\obj\Debug\net5.0\Ejercicio I03 - El ejemplo universal.pdb
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I03 - El ejemplo universal\obj\Debug\net5.0\Ejercicio I03 - El ejemplo universal.genruntimeconfig.cache
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I03 - El ejemplo universal\obj\Debug\net5.0\ref\Ejercicio I03 - El ejemplo universal.dll
