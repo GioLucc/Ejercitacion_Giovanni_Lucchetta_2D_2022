@@ -10,3 +10,15 @@ C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\BibliotecaDe
 C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\BibliotecaDeClases\obj\Debug\net5.0\refint\BibliotecaDeClases.dll
 C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\BibliotecaDeClases\obj\Debug\net5.0\BibliotecaDeClases.pdb
 C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\BibliotecaDeClases\obj\Debug\net5.0\ref\BibliotecaDeClases.dll
+C:\Users\Giovanni\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\BibliotecaDeClases\bin\Debug\net5.0\BibliotecaDeClases.deps.json
+C:\Users\Giovanni\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\BibliotecaDeClases\bin\Debug\net5.0\BibliotecaDeClases.dll
+C:\Users\Giovanni\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\BibliotecaDeClases\bin\Debug\net5.0\BibliotecaDeClases.pdb
+C:\Users\Giovanni\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\BibliotecaDeClases\obj\Debug\net5.0\BibliotecaDeClases.csproj.AssemblyReference.cache
+C:\Users\Giovanni\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\BibliotecaDeClases\obj\Debug\net5.0\BibliotecaDeClases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovanni\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\BibliotecaDeClases\obj\Debug\net5.0\BibliotecaDeClases.AssemblyInfoInputs.cache
+C:\Users\Giovanni\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\BibliotecaDeClases\obj\Debug\net5.0\BibliotecaDeClases.AssemblyInfo.cs
+C:\Users\Giovanni\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\BibliotecaDeClases\obj\Debug\net5.0\BibliotecaDeClases.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\BibliotecaDeClases\obj\Debug\net5.0\BibliotecaDeClases.dll
+C:\Users\Giovanni\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\BibliotecaDeClases\obj\Debug\net5.0\refint\BibliotecaDeClases.dll
+C:\Users\Giovanni\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\BibliotecaDeClases\obj\Debug\net5.0\BibliotecaDeClases.pdb
+C:\Users\Giovanni\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\BibliotecaDeClases\obj\Debug\net5.0\ref\BibliotecaDeClases.dll

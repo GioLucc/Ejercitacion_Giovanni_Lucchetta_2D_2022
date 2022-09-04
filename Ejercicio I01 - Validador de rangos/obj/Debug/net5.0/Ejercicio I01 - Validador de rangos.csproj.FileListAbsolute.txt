@@ -1,0 +1,19 @@
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - Validador de rangos\bin\Debug\net5.0\Ejercicio I01 - Validador de rangos.exe
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - Validador de rangos\bin\Debug\net5.0\Ejercicio I01 - Validador de rangos.deps.json
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - Validador de rangos\bin\Debug\net5.0\Ejercicio I01 - Validador de rangos.runtimeconfig.json
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - Validador de rangos\bin\Debug\net5.0\Ejercicio I01 - Validador de rangos.runtimeconfig.dev.json
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - Validador de rangos\bin\Debug\net5.0\Ejercicio I01 - Validador de rangos.dll
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - Validador de rangos\bin\Debug\net5.0\Ejercicio I01 - Validador de rangos.pdb
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - Validador de rangos\bin\Debug\net5.0\BibliotecaValidadora.dll
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - Validador de rangos\bin\Debug\net5.0\BibliotecaValidadora.pdb
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - Validador de rangos\obj\Debug\net5.0\Ejercicio I01 - Validador de rangos.csproj.AssemblyReference.cache
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - Validador de rangos\obj\Debug\net5.0\Ejercicio I01 - Validador de rangos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - Validador de rangos\obj\Debug\net5.0\Ejercicio I01 - Validador de rangos.AssemblyInfoInputs.cache
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - Validador de rangos\obj\Debug\net5.0\Ejercicio I01 - Validador de rangos.AssemblyInfo.cs
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - Validador de rangos\obj\Debug\net5.0\Ejercicio I01 - Validador de rangos.csproj.CoreCompileInputs.cache
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - Validador de rangos\obj\Debug\net5.0\Ejercicio I01 - Validador de rangos.csproj.CopyComplete
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - Validador de rangos\obj\Debug\net5.0\Ejercicio I01 - Validador de rangos.dll
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - Validador de rangos\obj\Debug\net5.0\refint\Ejercicio I01 - Validador de rangos.dll
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - Validador de rangos\obj\Debug\net5.0\Ejercicio I01 - Validador de rangos.pdb
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - Validador de rangos\obj\Debug\net5.0\Ejercicio I01 - Validador de rangos.genruntimeconfig.cache
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - Validador de rangos\obj\Debug\net5.0\ref\Ejercicio I01 - Validador de rangos.dll

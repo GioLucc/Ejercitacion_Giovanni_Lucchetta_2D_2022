@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "k/tnE/5VeO+tAhnCrFOH4c/H742ozjk5ByWnyaZ65rQEBBjQ5g1g0k+37zjahion1avYHuIzPD+JByH7CqZSJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Giovanni\\source\\repos\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\Biblioteca\\Biblioteca.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Giovanni\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Giovanni\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Giovanni\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

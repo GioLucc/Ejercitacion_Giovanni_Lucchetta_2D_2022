@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ejercicio I04 - Invento argentino/1.0.0": {
+        "dependencies": {
+          "BibliotecaDeClases": "1.0.0"
+        },
+        "runtime": {
+          "Ejercicio I04 - Invento argentino.dll": {}
+        }
+      },
+      "BibliotecaDeClases/1.0.0": {
+        "runtime": {
+          "BibliotecaDeClases.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio I04 - Invento argentino/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaDeClases/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

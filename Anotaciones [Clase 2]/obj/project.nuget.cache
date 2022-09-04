@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "1oK0ZEecysfpF0iIlWK0TRD1lX/e4gosFbrHV6dhm0ba6bTrUGbNA9PnEi7cShaju+zu6MjEDlPq8Ev0I7usLQ==",
+  "dgSpecHash": "Vz70hYFRwPMNUnJ52wG7svoFDhQwrCqhFXcGn43Oz+DAdH1s9SPnZFLT1AtD/zFT0YPweqNQuX6UVBb2fiDWYQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\giova\\source\\repos\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\Anotaciones [Clase 2]\\Anotaciones [Clase 2].csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Giovanni\\source\\repos\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\Anotaciones [Clase 2]\\Anotaciones [Clase 2].csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Giovanni\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\Giovanni\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Giovanni\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Giovanni\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

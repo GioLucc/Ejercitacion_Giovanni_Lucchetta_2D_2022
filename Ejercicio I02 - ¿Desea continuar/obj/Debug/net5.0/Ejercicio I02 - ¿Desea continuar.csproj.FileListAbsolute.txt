@@ -1,0 +1,38 @@
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I02 - ¿Desea continuar\bin\Debug\net5.0\Ejercicio I02 - ¿Desea continuar.exe
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I02 - ¿Desea continuar\bin\Debug\net5.0\Ejercicio I02 - ¿Desea continuar.deps.json
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I02 - ¿Desea continuar\bin\Debug\net5.0\Ejercicio I02 - ¿Desea continuar.runtimeconfig.json
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I02 - ¿Desea continuar\bin\Debug\net5.0\Ejercicio I02 - ¿Desea continuar.runtimeconfig.dev.json
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I02 - ¿Desea continuar\bin\Debug\net5.0\Ejercicio I02 - ¿Desea continuar.dll
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I02 - ¿Desea continuar\bin\Debug\net5.0\Ejercicio I02 - ¿Desea continuar.pdb
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I02 - ¿Desea continuar\bin\Debug\net5.0\BibliotecaValidadora.dll
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I02 - ¿Desea continuar\bin\Debug\net5.0\BibliotecaValidadora.pdb
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I02 - ¿Desea continuar\obj\Debug\net5.0\Ejercicio I02 - ¿Desea continuar.csproj.AssemblyReference.cache
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I02 - ¿Desea continuar\obj\Debug\net5.0\Ejercicio I02 - ¿Desea continuar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I02 - ¿Desea continuar\obj\Debug\net5.0\Ejercicio I02 - ¿Desea continuar.AssemblyInfoInputs.cache
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I02 - ¿Desea continuar\obj\Debug\net5.0\Ejercicio I02 - ¿Desea continuar.AssemblyInfo.cs
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I02 - ¿Desea continuar\obj\Debug\net5.0\Ejercicio I02 - ¿Desea continuar.csproj.CoreCompileInputs.cache
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I02 - ¿Desea continuar\obj\Debug\net5.0\Ejercicio I02 - ¿Desea continuar.csproj.CopyComplete
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I02 - ¿Desea continuar\obj\Debug\net5.0\Ejercicio I02 - ¿Desea continuar.dll
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I02 - ¿Desea continuar\obj\Debug\net5.0\refint\Ejercicio I02 - ¿Desea continuar.dll
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I02 - ¿Desea continuar\obj\Debug\net5.0\Ejercicio I02 - ¿Desea continuar.pdb
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I02 - ¿Desea continuar\obj\Debug\net5.0\Ejercicio I02 - ¿Desea continuar.genruntimeconfig.cache
+C:\Users\giova\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I02 - ¿Desea continuar\obj\Debug\net5.0\ref\Ejercicio I02 - ¿Desea continuar.dll
+C:\Users\Giovanni\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I02 - ¿Desea continuar\bin\Debug\net5.0\Ejercicio I02 - ¿Desea continuar.exe
+C:\Users\Giovanni\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I02 - ¿Desea continuar\bin\Debug\net5.0\Ejercicio I02 - ¿Desea continuar.deps.json
+C:\Users\Giovanni\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I02 - ¿Desea continuar\bin\Debug\net5.0\Ejercicio I02 - ¿Desea continuar.runtimeconfig.json
+C:\Users\Giovanni\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I02 - ¿Desea continuar\bin\Debug\net5.0\Ejercicio I02 - ¿Desea continuar.runtimeconfig.dev.json
+C:\Users\Giovanni\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I02 - ¿Desea continuar\bin\Debug\net5.0\Ejercicio I02 - ¿Desea continuar.dll
+C:\Users\Giovanni\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I02 - ¿Desea continuar\bin\Debug\net5.0\Ejercicio I02 - ¿Desea continuar.pdb
+C:\Users\Giovanni\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I02 - ¿Desea continuar\bin\Debug\net5.0\BibliotecaValidadora.dll
+C:\Users\Giovanni\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I02 - ¿Desea continuar\bin\Debug\net5.0\BibliotecaValidadora.pdb
+C:\Users\Giovanni\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I02 - ¿Desea continuar\obj\Debug\net5.0\Ejercicio I02 - ¿Desea continuar.csproj.AssemblyReference.cache
+C:\Users\Giovanni\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I02 - ¿Desea continuar\obj\Debug\net5.0\Ejercicio I02 - ¿Desea continuar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovanni\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I02 - ¿Desea continuar\obj\Debug\net5.0\Ejercicio I02 - ¿Desea continuar.AssemblyInfoInputs.cache
+C:\Users\Giovanni\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I02 - ¿Desea continuar\obj\Debug\net5.0\Ejercicio I02 - ¿Desea continuar.AssemblyInfo.cs
+C:\Users\Giovanni\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I02 - ¿Desea continuar\obj\Debug\net5.0\Ejercicio I02 - ¿Desea continuar.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I02 - ¿Desea continuar\obj\Debug\net5.0\Ejercicio I02 - ¿Desea continuar.csproj.CopyComplete
+C:\Users\Giovanni\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I02 - ¿Desea continuar\obj\Debug\net5.0\Ejercicio I02 - ¿Desea continuar.dll
+C:\Users\Giovanni\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I02 - ¿Desea continuar\obj\Debug\net5.0\refint\Ejercicio I02 - ¿Desea continuar.dll
+C:\Users\Giovanni\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I02 - ¿Desea continuar\obj\Debug\net5.0\Ejercicio I02 - ¿Desea continuar.pdb
+C:\Users\Giovanni\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I02 - ¿Desea continuar\obj\Debug\net5.0\Ejercicio I02 - ¿Desea continuar.genruntimeconfig.cache
+C:\Users\Giovanni\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I02 - ¿Desea continuar\obj\Debug\net5.0\ref\Ejercicio I02 - ¿Desea continuar.dll

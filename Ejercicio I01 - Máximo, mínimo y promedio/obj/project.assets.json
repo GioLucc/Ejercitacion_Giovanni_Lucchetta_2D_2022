@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\giova\\.nuget\\packages\\": {}
+    "C:\\Users\\Giovanni\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\giova\\source\\repos\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\Ejercicio I01 - Máximo, mínimo y promedio\\Ejercicio I01 - Máximo, mínimo y promedio.csproj",
+      "projectUniqueName": "C:\\Users\\Giovanni\\source\\repos\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\Ejercicio I01 - Máximo, mínimo y promedio\\Ejercicio I01 - Máximo, mínimo y promedio.csproj",
       "projectName": "Ejercicio I01 - Máximo, mínimo y promedio",
-      "projectPath": "C:\\Users\\giova\\source\\repos\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\Ejercicio I01 - Máximo, mínimo y promedio\\Ejercicio I01 - Máximo, mínimo y promedio.csproj",
-      "packagesPath": "C:\\Users\\giova\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\giova\\source\\repos\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\Ejercicio I01 - Máximo, mínimo y promedio\\obj\\",
+      "projectPath": "C:\\Users\\Giovanni\\source\\repos\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\Ejercicio I01 - Máximo, mínimo y promedio\\Ejercicio I01 - Máximo, mínimo y promedio.csproj",
+      "packagesPath": "C:\\Users\\Giovanni\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Giovanni\\source\\repos\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\Ejercicio I01 - Máximo, mínimo y promedio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\giova\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Giovanni\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -56,6 +56,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.17, 5.0.17]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"

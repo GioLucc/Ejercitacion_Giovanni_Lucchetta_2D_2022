@@ -1,0 +1,12 @@
+D:\PrograYLaboII\EjerEncap1\Entidades\bin\Debug\net5.0\Entidades.deps.json
+D:\PrograYLaboII\EjerEncap1\Entidades\bin\Debug\net5.0\Entidades.dll
+D:\PrograYLaboII\EjerEncap1\Entidades\bin\Debug\net5.0\Entidades.pdb
+D:\PrograYLaboII\EjerEncap1\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+D:\PrograYLaboII\EjerEncap1\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\PrograYLaboII\EjerEncap1\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+D:\PrograYLaboII\EjerEncap1\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+D:\PrograYLaboII\EjerEncap1\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+D:\PrograYLaboII\EjerEncap1\Entidades\obj\Debug\net5.0\Entidades.dll
+D:\PrograYLaboII\EjerEncap1\Entidades\obj\Debug\net5.0\refint\Entidades.dll
+D:\PrograYLaboII\EjerEncap1\Entidades\obj\Debug\net5.0\Entidades.pdb
+D:\PrograYLaboII\EjerEncap1\Entidades\obj\Debug\net5.0\ref\Entidades.dll

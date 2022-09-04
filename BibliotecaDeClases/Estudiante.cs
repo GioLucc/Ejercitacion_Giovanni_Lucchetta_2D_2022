@@ -15,9 +15,9 @@ namespace BibliotecaDeClases
         private int notaPrimerParcial;
         private int notaSegundoParcial;
 
-        //Crear atributo privado no pude
+        // Pude crear el atributo pero despues no lo podia usar.
         // No se como hacer el constructor estatico
-        // Porque no se puede inicializar acá y solo se puede ne la función
+        // Porque no se puede inicializar acá y solo se puede en la función
        
         public Estudiante(string apellido, string legajo, string nombre)
         {

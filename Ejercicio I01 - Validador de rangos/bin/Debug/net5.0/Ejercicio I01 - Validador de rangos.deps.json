@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ejercicio I01 - Validador de rangos/1.0.0": {
+        "dependencies": {
+          "BibliotecaValidadora": "1.0.0"
+        },
+        "runtime": {
+          "Ejercicio I01 - Validador de rangos.dll": {}
+        }
+      },
+      "BibliotecaValidadora/1.0.0": {
+        "runtime": {
+          "BibliotecaValidadora.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio I01 - Validador de rangos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaValidadora/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

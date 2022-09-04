@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Ejercicio_I01___Validador_de_rangos
+build_property.ProjectDir = C:\Users\Giovanni\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - Validador de rangos\

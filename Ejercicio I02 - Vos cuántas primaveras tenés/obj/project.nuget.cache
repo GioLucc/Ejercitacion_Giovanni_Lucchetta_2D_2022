@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "3ancXqEgUcnJBaXWgLpCSRJqPzZxmBFywz6n+uQS3UkUkp0euk6e10SdOMYNvWkHlO63oAqC1okeQSaqzHiMoA==",
+  "dgSpecHash": "p105tNg4Jg6jt70M74V8K30TgNWFCpLwzklpitinWhxcWJGaIGk24hUF6HKZdOQlBCzNHvNMy7wAzjTkR+JoiA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\giova\\source\\repos\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\Ejercicio I02 - Vos cuántas primaveras tenés\\Ejercicio I02 - Vos cuántas primaveras tenés.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Giovanni\\source\\repos\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\Ejercicio I02 - Vos cuántas primaveras tenés\\Ejercicio I02 - Vos cuántas primaveras tenés.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Giovanni\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\Giovanni\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Giovanni\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Giovanni\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

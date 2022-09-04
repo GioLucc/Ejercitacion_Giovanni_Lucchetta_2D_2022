@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "1OnFLoIgHeNof2A6G+yVHDPjfg2Q0utUYjcaM9T8ZcsUxkCFzqmom8Dyxm6fYi2DRt3+PL0uLp6lmVFPQ1/wFA==",
+  "dgSpecHash": "dgjPQYza7xJ5Ze0TPBATbWKu4iLRLOkEjFM4xuFM2F6JGql5G8mhB9MUxBxX9xqfQH1ga3mvl/6hGkRZSjdVgQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\giova\\source\\repos\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\BibliotecaDeClases\\BibliotecaDeClases.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Giovanni\\source\\repos\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\BibliotecaDeClases\\BibliotecaDeClases.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Giovanni\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Giovanni\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Giovanni\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

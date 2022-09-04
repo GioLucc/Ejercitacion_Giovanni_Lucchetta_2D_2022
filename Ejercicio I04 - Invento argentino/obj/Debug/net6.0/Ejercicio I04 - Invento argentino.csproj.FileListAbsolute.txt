@@ -1,0 +1,18 @@
+C:\Users\Giovanni\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I04 - Invento argentino\bin\Debug\net6.0\Ejercicio I04 - Invento argentino.exe
+C:\Users\Giovanni\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I04 - Invento argentino\bin\Debug\net6.0\Ejercicio I04 - Invento argentino.deps.json
+C:\Users\Giovanni\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I04 - Invento argentino\bin\Debug\net6.0\Ejercicio I04 - Invento argentino.runtimeconfig.json
+C:\Users\Giovanni\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I04 - Invento argentino\bin\Debug\net6.0\Ejercicio I04 - Invento argentino.dll
+C:\Users\Giovanni\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I04 - Invento argentino\bin\Debug\net6.0\Ejercicio I04 - Invento argentino.pdb
+C:\Users\Giovanni\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I04 - Invento argentino\bin\Debug\net6.0\BibliotecaDeClases.dll
+C:\Users\Giovanni\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I04 - Invento argentino\bin\Debug\net6.0\BibliotecaDeClases.pdb
+C:\Users\Giovanni\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I04 - Invento argentino\obj\Debug\net6.0\Ejercicio I04 - Invento argentino.csproj.AssemblyReference.cache
+C:\Users\Giovanni\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I04 - Invento argentino\obj\Debug\net6.0\Ejercicio I04 - Invento argentino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovanni\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I04 - Invento argentino\obj\Debug\net6.0\Ejercicio I04 - Invento argentino.AssemblyInfoInputs.cache
+C:\Users\Giovanni\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I04 - Invento argentino\obj\Debug\net6.0\Ejercicio I04 - Invento argentino.AssemblyInfo.cs
+C:\Users\Giovanni\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I04 - Invento argentino\obj\Debug\net6.0\Ejercicio I04 - Invento argentino.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I04 - Invento argentino\obj\Debug\net6.0\Ejercicio I04 - Invento argentino.csproj.CopyComplete
+C:\Users\Giovanni\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I04 - Invento argentino\obj\Debug\net6.0\Ejercicio I04 - Invento argentino.dll
+C:\Users\Giovanni\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I04 - Invento argentino\obj\Debug\net6.0\refint\Ejercicio I04 - Invento argentino.dll
+C:\Users\Giovanni\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I04 - Invento argentino\obj\Debug\net6.0\Ejercicio I04 - Invento argentino.pdb
+C:\Users\Giovanni\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I04 - Invento argentino\obj\Debug\net6.0\Ejercicio I04 - Invento argentino.genruntimeconfig.cache
+C:\Users\Giovanni\source\repos\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I04 - Invento argentino\obj\Debug\net6.0\ref\Ejercicio I04 - Invento argentino.dll
