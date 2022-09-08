@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Giovanni\\source\\repos\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\Ejercicio I02 - Vos cuántas primaveras tenés\\Ejercicio I02 - Vos cuántas primaveras tenés.csproj": {}
+    "C:\\Users\\Maria\\source\\repos\\GioLucc\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\Ejercicio I02 - Vos cuántas primaveras tenés\\Ejercicio I02 - Vos cuántas primaveras tenés.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Giovanni\\source\\repos\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\BibliotecaDeClases\\BibliotecaDeClases.csproj": {
+    "C:\\Users\\Maria\\source\\repos\\GioLucc\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\BibliotecaDeClases\\BibliotecaDeClases.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Giovanni\\source\\repos\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\BibliotecaDeClases\\BibliotecaDeClases.csproj",
+        "projectUniqueName": "C:\\Users\\Maria\\source\\repos\\GioLucc\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\BibliotecaDeClases\\BibliotecaDeClases.csproj",
         "projectName": "BibliotecaDeClases",
-        "projectPath": "C:\\Users\\Giovanni\\source\\repos\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\BibliotecaDeClases\\BibliotecaDeClases.csproj",
-        "packagesPath": "C:\\Users\\Giovanni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Giovanni\\source\\repos\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\BibliotecaDeClases\\obj\\",
+        "projectPath": "C:\\Users\\Maria\\source\\repos\\GioLucc\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\BibliotecaDeClases\\BibliotecaDeClases.csproj",
+        "packagesPath": "C:\\Users\\Maria\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Maria\\Source\\Repos\\GioLucc\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\BibliotecaDeClases\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Giovanni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Maria\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -73,17 +73,17 @@
         }
       }
     },
-    "C:\\Users\\Giovanni\\source\\repos\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\Ejercicio I02 - Vos cuántas primaveras tenés\\Ejercicio I02 - Vos cuántas primaveras tenés.csproj": {
+    "C:\\Users\\Maria\\source\\repos\\GioLucc\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\Ejercicio I02 - Vos cuántas primaveras tenés\\Ejercicio I02 - Vos cuántas primaveras tenés.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Giovanni\\source\\repos\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\Ejercicio I02 - Vos cuántas primaveras tenés\\Ejercicio I02 - Vos cuántas primaveras tenés.csproj",
+        "projectUniqueName": "C:\\Users\\Maria\\source\\repos\\GioLucc\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\Ejercicio I02 - Vos cuántas primaveras tenés\\Ejercicio I02 - Vos cuántas primaveras tenés.csproj",
         "projectName": "Ejercicio I02 - Vos cuántas primaveras tenés",
-        "projectPath": "C:\\Users\\Giovanni\\source\\repos\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\Ejercicio I02 - Vos cuántas primaveras tenés\\Ejercicio I02 - Vos cuántas primaveras tenés.csproj",
-        "packagesPath": "C:\\Users\\Giovanni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Giovanni\\source\\repos\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\Ejercicio I02 - Vos cuántas primaveras tenés\\obj\\",
+        "projectPath": "C:\\Users\\Maria\\source\\repos\\GioLucc\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\Ejercicio I02 - Vos cuántas primaveras tenés\\Ejercicio I02 - Vos cuántas primaveras tenés.csproj",
+        "packagesPath": "C:\\Users\\Maria\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Maria\\source\\repos\\GioLucc\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\Ejercicio I02 - Vos cuántas primaveras tenés\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Giovanni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Maria\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -97,8 +97,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Giovanni\\source\\repos\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\BibliotecaDeClases\\BibliotecaDeClases.csproj": {
-                "projectPath": "C:\\Users\\Giovanni\\source\\repos\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\BibliotecaDeClases\\BibliotecaDeClases.csproj"
+              "C:\\Users\\Maria\\source\\repos\\GioLucc\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\BibliotecaDeClases\\BibliotecaDeClases.csproj": {
+                "projectPath": "C:\\Users\\Maria\\source\\repos\\GioLucc\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\BibliotecaDeClases\\BibliotecaDeClases.csproj"
               }
             }
           }

@@ -27,19 +27,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Giovanni\\.nuget\\packages\\": {}
+    "C:\\Users\\Maria\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Giovanni\\source\\repos\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\Ejercicio I02 - ¿Desea continuar\\Ejercicio I02 - ¿Desea continuar.csproj",
+      "projectUniqueName": "C:\\Users\\Maria\\source\\repos\\GioLucc\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\Ejercicio I02 - ¿Desea continuar\\Ejercicio I02 - ¿Desea continuar.csproj",
       "projectName": "Ejercicio I02 - ¿Desea continuar",
-      "projectPath": "C:\\Users\\Giovanni\\source\\repos\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\Ejercicio I02 - ¿Desea continuar\\Ejercicio I02 - ¿Desea continuar.csproj",
-      "packagesPath": "C:\\Users\\Giovanni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Giovanni\\source\\repos\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\Ejercicio I02 - ¿Desea continuar\\obj\\",
+      "projectPath": "C:\\Users\\Maria\\source\\repos\\GioLucc\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\Ejercicio I02 - ¿Desea continuar\\Ejercicio I02 - ¿Desea continuar.csproj",
+      "packagesPath": "C:\\Users\\Maria\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Maria\\Source\\Repos\\GioLucc\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\Ejercicio I02 - ¿Desea continuar\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Giovanni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Maria\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -53,8 +53,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Giovanni\\source\\repos\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\BibliotecaValidadora\\BibliotecaValidadora.csproj": {
-              "projectPath": "C:\\Users\\Giovanni\\source\\repos\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\BibliotecaValidadora\\BibliotecaValidadora.csproj"
+            "C:\\Users\\Maria\\source\\repos\\GioLucc\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\BibliotecaValidadora\\BibliotecaValidadora.csproj": {
+              "projectPath": "C:\\Users\\Maria\\source\\repos\\GioLucc\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\BibliotecaValidadora\\BibliotecaValidadora.csproj"
             }
           }
         }

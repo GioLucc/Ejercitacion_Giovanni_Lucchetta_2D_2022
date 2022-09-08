@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Giovanni\\source\\repos\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\Anotaciones [Clase 2]\\Anotaciones [Clase 2].csproj": {}
+    "C:\\Users\\Maria\\source\\repos\\GioLucc\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\Anotaciones [Clase 2]\\Anotaciones [Clase 2].csproj": {}
   },
   "projects": {
-    "C:\\Users\\Giovanni\\source\\repos\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\Anotaciones [Clase 2]\\Anotaciones [Clase 2].csproj": {
+    "C:\\Users\\Maria\\source\\repos\\GioLucc\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\Anotaciones [Clase 2]\\Anotaciones [Clase 2].csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Giovanni\\source\\repos\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\Anotaciones [Clase 2]\\Anotaciones [Clase 2].csproj",
+        "projectUniqueName": "C:\\Users\\Maria\\source\\repos\\GioLucc\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\Anotaciones [Clase 2]\\Anotaciones [Clase 2].csproj",
         "projectName": "Anotaciones [Clase 2]",
-        "projectPath": "C:\\Users\\Giovanni\\source\\repos\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\Anotaciones [Clase 2]\\Anotaciones [Clase 2].csproj",
-        "packagesPath": "C:\\Users\\Giovanni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Giovanni\\source\\repos\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\Anotaciones [Clase 2]\\obj\\",
+        "projectPath": "C:\\Users\\Maria\\source\\repos\\GioLucc\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\Anotaciones [Clase 2]\\Anotaciones [Clase 2].csproj",
+        "packagesPath": "C:\\Users\\Maria\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Maria\\Source\\Repos\\GioLucc\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\Anotaciones [Clase 2]\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Giovanni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Maria\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

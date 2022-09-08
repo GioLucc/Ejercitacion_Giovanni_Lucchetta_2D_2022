@@ -1,0 +1,18 @@
+C:\Users\Maria\source\repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - ¡Hola, Windows Forms!\bin\Debug\net6.0-windows\Ejercicio I01 - ¡Hola, Windows Forms!.exe
+C:\Users\Maria\source\repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - ¡Hola, Windows Forms!\bin\Debug\net6.0-windows\Ejercicio I01 - ¡Hola, Windows Forms!.deps.json
+C:\Users\Maria\source\repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - ¡Hola, Windows Forms!\bin\Debug\net6.0-windows\Ejercicio I01 - ¡Hola, Windows Forms!.runtimeconfig.json
+C:\Users\Maria\source\repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - ¡Hola, Windows Forms!\bin\Debug\net6.0-windows\Ejercicio I01 - ¡Hola, Windows Forms!.dll
+C:\Users\Maria\source\repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - ¡Hola, Windows Forms!\bin\Debug\net6.0-windows\Ejercicio I01 - ¡Hola, Windows Forms!.pdb
+C:\Users\Maria\source\repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - ¡Hola, Windows Forms!\obj\Debug\net6.0-windows\Ejercicio I01 - ¡Hola, Windows Forms!.csproj.AssemblyReference.cache
+C:\Users\Maria\source\repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - ¡Hola, Windows Forms!\obj\Debug\net6.0-windows\Ejercicio_I01____Hola__Windows_Forms_.Form1.resources
+C:\Users\Maria\source\repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - ¡Hola, Windows Forms!\obj\Debug\net6.0-windows\Ejercicio_I01____Hola__Windows_Forms_.FormMensaje.resources
+C:\Users\Maria\source\repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - ¡Hola, Windows Forms!\obj\Debug\net6.0-windows\Ejercicio I01 - ¡Hola, Windows Forms!.csproj.GenerateResource.cache
+C:\Users\Maria\source\repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - ¡Hola, Windows Forms!\obj\Debug\net6.0-windows\Ejercicio I01 - ¡Hola, Windows Forms!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria\source\repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - ¡Hola, Windows Forms!\obj\Debug\net6.0-windows\Ejercicio I01 - ¡Hola, Windows Forms!.AssemblyInfoInputs.cache
+C:\Users\Maria\source\repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - ¡Hola, Windows Forms!\obj\Debug\net6.0-windows\Ejercicio I01 - ¡Hola, Windows Forms!.AssemblyInfo.cs
+C:\Users\Maria\source\repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - ¡Hola, Windows Forms!\obj\Debug\net6.0-windows\Ejercicio I01 - ¡Hola, Windows Forms!.csproj.CoreCompileInputs.cache
+C:\Users\Maria\source\repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - ¡Hola, Windows Forms!\obj\Debug\net6.0-windows\Ejercicio I01 - ¡Hola, Windows Forms!.dll
+C:\Users\Maria\source\repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - ¡Hola, Windows Forms!\obj\Debug\net6.0-windows\refint\Ejercicio I01 - ¡Hola, Windows Forms!.dll
+C:\Users\Maria\source\repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - ¡Hola, Windows Forms!\obj\Debug\net6.0-windows\Ejercicio I01 - ¡Hola, Windows Forms!.pdb
+C:\Users\Maria\source\repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - ¡Hola, Windows Forms!\obj\Debug\net6.0-windows\Ejercicio I01 - ¡Hola, Windows Forms!.genruntimeconfig.cache
+C:\Users\Maria\source\repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio I01 - ¡Hola, Windows Forms!\obj\Debug\net6.0-windows\ref\Ejercicio I01 - ¡Hola, Windows Forms!.dll

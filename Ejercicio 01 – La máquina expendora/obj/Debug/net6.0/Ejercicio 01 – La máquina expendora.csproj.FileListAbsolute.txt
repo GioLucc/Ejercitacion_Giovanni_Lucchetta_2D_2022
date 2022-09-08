@@ -1,0 +1,15 @@
+C:\Users\Maria\Source\Repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio 01 – La máquina expendora\bin\Debug\net6.0\Ejercicio 01 – La máquina expendora.exe
+C:\Users\Maria\Source\Repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio 01 – La máquina expendora\bin\Debug\net6.0\Ejercicio 01 – La máquina expendora.deps.json
+C:\Users\Maria\Source\Repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio 01 – La máquina expendora\bin\Debug\net6.0\Ejercicio 01 – La máquina expendora.runtimeconfig.json
+C:\Users\Maria\Source\Repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio 01 – La máquina expendora\bin\Debug\net6.0\Ejercicio 01 – La máquina expendora.dll
+C:\Users\Maria\Source\Repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio 01 – La máquina expendora\bin\Debug\net6.0\Ejercicio 01 – La máquina expendora.pdb
+C:\Users\Maria\Source\Repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio 01 – La máquina expendora\obj\Debug\net6.0\Ejercicio 01 – La máquina expendora.csproj.AssemblyReference.cache
+C:\Users\Maria\Source\Repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio 01 – La máquina expendora\obj\Debug\net6.0\Ejercicio 01 – La máquina expendora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria\Source\Repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio 01 – La máquina expendora\obj\Debug\net6.0\Ejercicio 01 – La máquina expendora.AssemblyInfoInputs.cache
+C:\Users\Maria\Source\Repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio 01 – La máquina expendora\obj\Debug\net6.0\Ejercicio 01 – La máquina expendora.AssemblyInfo.cs
+C:\Users\Maria\Source\Repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio 01 – La máquina expendora\obj\Debug\net6.0\Ejercicio 01 – La máquina expendora.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Source\Repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio 01 – La máquina expendora\obj\Debug\net6.0\Ejercicio 01 – La máquina expendora.dll
+C:\Users\Maria\Source\Repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio 01 – La máquina expendora\obj\Debug\net6.0\refint\Ejercicio 01 – La máquina expendora.dll
+C:\Users\Maria\Source\Repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio 01 – La máquina expendora\obj\Debug\net6.0\Ejercicio 01 – La máquina expendora.pdb
+C:\Users\Maria\Source\Repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio 01 – La máquina expendora\obj\Debug\net6.0\Ejercicio 01 – La máquina expendora.genruntimeconfig.cache
+C:\Users\Maria\Source\Repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\Ejercicio 01 – La máquina expendora\obj\Debug\net6.0\ref\Ejercicio 01 – La máquina expendora.dll
