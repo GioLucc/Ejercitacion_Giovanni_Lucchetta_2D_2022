@@ -12,13 +12,13 @@ namespace Ejercicio_I01____Hola__Windows_Forms_
 {
     public partial class FormMensaje : Form
     {
-        public FormMensaje(string nombre, string apellido)
+        public FormMensaje(string nombre, string apellido, string materiaFavorita)
         {
             InitializeComponent();
 
             lblBienvenida.Text = "¡Hola, Windows Form!";
 
-            lblMensaje.Text = $"Soy {nombre} {apellido}";
+            lblMensaje.Text = $"Soy {nombre} {apellido} y mi materia favorita es {materiaFavorita}!";
 
         }
 

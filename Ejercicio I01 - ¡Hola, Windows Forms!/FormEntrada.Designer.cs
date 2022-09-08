@@ -33,6 +33,8 @@
             this.lblNombre = new System.Windows.Forms.Label();
             this.lblApellido = new System.Windows.Forms.Label();
             this.btnAceptar = new System.Windows.Forms.Button();
+            this.lblMateria = new System.Windows.Forms.Label();
+            this.cboMaterias = new System.Windows.Forms.ComboBox();
             this.SuspendLayout();
             // 
             // txtNombre
@@ -81,11 +83,31 @@
             this.btnAceptar.UseVisualStyleBackColor = false;
             this.btnAceptar.Click += new System.EventHandler(this.btnAceptar_Click);
             // 
+            // lblMateria
+            // 
+            this.lblMateria.AutoSize = true;
+            this.lblMateria.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.lblMateria.Location = new System.Drawing.Point(36, 149);
+            this.lblMateria.Name = "lblMateria";
+            this.lblMateria.Size = new System.Drawing.Size(109, 17);
+            this.lblMateria.TabIndex = 5;
+            this.lblMateria.Text = "Materia Favorita";
+            // 
+            // cboMaterias
+            // 
+            this.cboMaterias.FormattingEnabled = true;
+            this.cboMaterias.Location = new System.Drawing.Point(36, 187);
+            this.cboMaterias.Name = "cboMaterias";
+            this.cboMaterias.Size = new System.Drawing.Size(225, 23);
+            this.cboMaterias.TabIndex = 6;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(522, 255);
+            this.Controls.Add(this.cboMaterias);
+            this.Controls.Add(this.lblMateria);
             this.Controls.Add(this.btnAceptar);
             this.Controls.Add(this.lblApellido);
             this.Controls.Add(this.lblNombre);
@@ -96,6 +118,7 @@
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "¡Hola, Windows Form!";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -108,5 +131,7 @@
         private Label lblNombre;
         private Label lblApellido;
         private Button btnAceptar;
+        private Label lblMateria;
+        private ComboBox cboMaterias;
     }
 }

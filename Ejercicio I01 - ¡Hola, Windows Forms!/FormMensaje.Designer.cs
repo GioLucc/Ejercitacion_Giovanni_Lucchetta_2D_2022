@@ -36,7 +36,7 @@
             // 
             this.lblMensaje.AutoSize = true;
             this.lblMensaje.Font = new System.Drawing.Font("Segoe UI", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point);
-            this.lblMensaje.Location = new System.Drawing.Point(58, 127);
+            this.lblMensaje.Location = new System.Drawing.Point(12, 133);
             this.lblMensaje.Name = "lblMensaje";
             this.lblMensaje.Size = new System.Drawing.Size(70, 21);
             this.lblMensaje.TabIndex = 0;
