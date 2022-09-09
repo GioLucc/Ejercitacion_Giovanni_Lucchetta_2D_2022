@@ -4,6 +4,7 @@ namespace Ejercicio_I01____Hola__Windows_Forms_
 {
     public partial class Form1 : Form
     {
+
         public Form1()
         {
             InitializeComponent();
@@ -11,57 +12,41 @@ namespace Ejercicio_I01____Hola__Windows_Forms_
 
         private void btnAceptar_Click(object sender, EventArgs e)
         {
-            string nombreIngresado;
-            string apellidoIngresado;
-            string materiaFavorita;
-            string mensaje;
-
-            nombreIngresado = txtNombre.Text;
-            apellidoIngresado = txtApellido.Text;
-            materiaFavorita = cboMaterias.Text;
-            
-
-            //TOP TIER GOD GODEANO GOD
-            if(String.IsNullOrWhiteSpace(txtNombre.Text))
+            if(CargaCorrecta())
             {
-                mensaje = "Se deben completar los siguientes campos:\nNombre";
-
-                if(String.IsNullOrWhiteSpace(txtApellido.Text))
-                {
-                    mensaje += "\nApellido";
-                }
-                MessageBox.Show(mensaje, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                FormMensaje form1 = new FormMensaje(txtNombre.Text, txtApellido.Text, cboMaterias.Text);
+                form1.ShowDialog();
             }
-            else
-            {
-                if(String.IsNullOrWhiteSpace(txtApellido.Text))
-                {
-                    mensaje = "Se deben completar los siguientes campos:\nApellido";
+        }
 
-                    if (String.IsNullOrWhiteSpace(txtNombre.Text))
-                    {
-                        mensaje += "\nNombre";
-                    }
-                    MessageBox.Show(mensaje,"Error",MessageBoxButtons.OK,MessageBoxIcon.Error);
-                }
-                else
-                {
-                    FormMensaje form2 = new FormMensaje(nombreIngresado, apellidoIngresado, materiaFavorita);
-                    form2.ShowDialog();
-                }
+        private bool CargaCorrecta()
+        {
+            bool resultado = true;
+            string mensaje = "Se deben completar los siguientes campos:";
+
+            if (String.IsNullOrWhiteSpace(txtNombre.Text))
+            {
+                mensaje += "\n-Nombre";
+                resultado = false;
+            }
+            if (String.IsNullOrWhiteSpace(txtApellido.Text))
+            {
+                resultado = false;
+                mensaje += "\n-Apellido";
+            }
+            if(cboMaterias.SelectedIndex < 0)
+            {
+                mensaje += "\n-Materia Favorita";
+                resultado = false;
             }
 
 
-            //if(String.IsNullOrWhiteSpace(txtNombre.Text) && String.IsNullOrWhiteSpace(txtApellido.Text))
-            //{
-            //    string mensaje;
+            if(!resultado)
+            {
+                MessageBox.Show(mensaje,"Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
 
-            //    mensaje = "Se deben completar los siguientes campos:\nNombre";
-            //}
-            //else
-            //{
-            //    if
-            //}
+            return resultado;
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -73,5 +58,25 @@ namespace Ejercicio_I01____Hola__Windows_Forms_
             cboMaterias.Items.Add("Programación II");
             cboMaterias.Items.Add("Laboratorio II");
         }
+
+        private bool verificarCarga()
+        {
+            bool verificar;
+
+            verificar = true;
+
+            foreach (Control item in this.Controls)
+            {
+                if(item is TextBox && string.IsNullOrEmpty(item.Text))
+                {
+                    verificar = false;
+                    break;
+                }
+            }
+
+            return verificar;
+        }
+
+
     }
 }

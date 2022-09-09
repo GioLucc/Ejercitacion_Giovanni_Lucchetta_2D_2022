@@ -1,0 +1,12 @@
+C:\Users\Maria\source\repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\BibliotecaRegistrate\bin\Debug\net6.0\BibliotecaRegistrate.deps.json
+C:\Users\Maria\source\repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\BibliotecaRegistrate\bin\Debug\net6.0\BibliotecaRegistrate.dll
+C:\Users\Maria\source\repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\BibliotecaRegistrate\bin\Debug\net6.0\BibliotecaRegistrate.pdb
+C:\Users\Maria\source\repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\BibliotecaRegistrate\obj\Debug\net6.0\BibliotecaRegistrate.csproj.AssemblyReference.cache
+C:\Users\Maria\source\repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\BibliotecaRegistrate\obj\Debug\net6.0\BibliotecaRegistrate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria\source\repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\BibliotecaRegistrate\obj\Debug\net6.0\BibliotecaRegistrate.AssemblyInfoInputs.cache
+C:\Users\Maria\source\repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\BibliotecaRegistrate\obj\Debug\net6.0\BibliotecaRegistrate.AssemblyInfo.cs
+C:\Users\Maria\source\repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\BibliotecaRegistrate\obj\Debug\net6.0\BibliotecaRegistrate.csproj.CoreCompileInputs.cache
+C:\Users\Maria\source\repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\BibliotecaRegistrate\obj\Debug\net6.0\BibliotecaRegistrate.dll
+C:\Users\Maria\source\repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\BibliotecaRegistrate\obj\Debug\net6.0\refint\BibliotecaRegistrate.dll
+C:\Users\Maria\source\repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\BibliotecaRegistrate\obj\Debug\net6.0\BibliotecaRegistrate.pdb
+C:\Users\Maria\source\repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\BibliotecaRegistrate\obj\Debug\net6.0\ref\BibliotecaRegistrate.dll
