@@ -245,7 +245,6 @@
             this.Controls.Add(this.gbDatos);
             this.Name = "Form1";
             this.Text = "Registro";
-            this.Load += new System.EventHandler(this.Form1_Load);
             this.gbDatos.ResumeLayout(false);
             this.gbDatos.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.nudEdad)).EndInit();

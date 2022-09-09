@@ -14,43 +14,84 @@ public partial class Form1 : Form
 
     private void btnIngresar_Click(object sender, EventArgs e)
     {
-        string sexo = "No binario";
-        string cursos = String.Empty;
+        if(VerificarTextBox())
+        {
+            Ingresante ingresante = new Ingresante(txtNombre.Text, txtDireccion.Text, (int)nudEdad.Value, VerificarGenero(), lstPaises.Text, VerificarCursos());
 
-        if (chkCSharp.Checked)
-        {
-            cursos += "\nC#\n";
-            //cursos += Environment.NewLine;
-        }
-        if(chkCplusplus.Checked)
-        {
-            cursos += "C++\n";
-        }
-        if(chkJavaScript.Checked)
-        {
-            cursos += "JavaScript\n";
-        }
-
-        if(radFemale.Checked)
-        {
-            sexo = "Femenino";
+            MessageBox.Show(ingresante.Mostrar());
         }
         else
         {
-            if(radMale.Checked)
-            {
-                sexo = "Masculino";
+            MessageBox.Show("Carga erronea de datos, verifique.","Error",MessageBoxButtons.OK,MessageBoxIcon.Error);
+        }
+    }
 
+    private string[] VerificarCursos()
+    {
+        string[] cursos = new string[gbCursos.Controls.Count];
+        int index = 0;
+
+        foreach (CheckBox item in gbCursos.Controls)
+        {
+            if(item.Checked)
+            {
+                cursos[index] = item.Text;
+                index++;
             }
         }
 
-        Ingresante ingresante = new Ingresante(txtNombre.Text,txtDireccion.Text,(int)nudEdad.Value,sexo,lstPaises.Text, cursos);
-
-        MessageBox.Show( ingresante.Mostrar());
+        return cursos;
     }
 
-    private void Form1_Load(object sender, EventArgs e)
+    private string VerificarGenero()
     {
+        string genero = string.Empty;
 
+        foreach (RadioButton item in gbGenero.Controls)
+        {
+            if(item.Checked)
+            {
+                genero = item.Text;
+            }
+        }
+        return genero;
     }
+
+    private bool verificarCarga()
+    {
+        bool verificar;
+
+        verificar = true;
+
+        foreach (Control item in this.Controls)
+        {
+            if (item is TextBox && string.IsNullOrEmpty(item.Text))
+            {
+                verificar = false;
+                break;
+            }
+        }
+
+        return verificar;
+    }
+
+    private bool VerificarTextBox()
+    {
+        bool verificar;
+
+        verificar = true;
+
+        foreach (Control item in gbDatos.Controls)
+        {
+            if (item is TextBox && string.IsNullOrEmpty(item.Text))
+            {
+                verificar = false;
+                break;
+            }
+        }
+
+        return verificar;
+    }
+
+
 }

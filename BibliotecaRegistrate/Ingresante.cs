@@ -4,14 +4,14 @@ namespace BibliotecaRegistrate
 {
     public class Ingresante
     {
-        private string cursos = string.Empty;
-        private string direccion = string.Empty;
+        private string[] cursos;
+        private string direccion;
         private int edad;
-        private string genero = string.Empty;
-        private string nombre = string.Empty;
-        private string pais = string.Empty;
+        private string genero;
+        private string nombre;
+        private string pais;
 
-        public Ingresante(string nombre,string direccion, int edad, string genero, string pais,string cursos)
+        public Ingresante(string nombre,string direccion, int edad, string genero, string pais,string[] cursos)
         {
             this.cursos = cursos;
             this.direccion = direccion;
@@ -23,16 +23,20 @@ namespace BibliotecaRegistrate
 
         public string Mostrar()
         {
-            StringBuilder @string = new StringBuilder();
+            StringBuilder sb = new StringBuilder();
 
-            @string.AppendLine($"Nombre: {nombre}");
-            @string.AppendLine($"Dirección: {direccion}");
-            @string.AppendLine($"Edad: {edad}");
-            @string.AppendLine($"Genero: {genero}");
-            @string.AppendLine($"Pais: {pais}");
-            @string.AppendLine($"Curso/s: {cursos}");
+            sb.AppendLine($"Nombre: {nombre}");
+            sb.AppendLine($"Dirección: {direccion}");
+            sb.AppendLine($"Edad: {edad}");
+            sb.AppendLine($"Genero: {genero}");
+            sb.AppendLine($"Pais: {pais}");
+            sb.AppendLine($"Curso/s:");
+            foreach (string item in cursos)
+            { 
+                sb.AppendLine(item);   
+            }
 
-            return @string.ToString();
+            return sb.ToString();
         }
     }
 }
