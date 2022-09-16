@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o8T2BlltcfkCbJzUm5d5mzXsMzpkPdqJkBZWtttnrsX8SuKfYba63Qcq2gQbh3JRZD6B1GveN8of3J1YgblnKw==",
+  "dgSpecHash": "lTgL3+v6LSlIte/X4pGihjcXmHcW3s6pTyKk1R0k81QeHFj29GYTlupK/e8TaaCmU41qEyOp//UAqd8+FrywCg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Maria\\source\\repos\\GioLucc\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\BibliotecaValidadora\\BibliotecaValidadora.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Maria\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\Maria\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\Maria\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

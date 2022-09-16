@@ -36,7 +36,7 @@
       "projectName": "EjerEncap1",
       "projectPath": "C:\\Users\\Maria\\source\\repos\\GioLucc\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\EjerEncap1\\EjerEncap1\\EjerEncap1.csproj",
       "packagesPath": "C:\\Users\\Maria\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Maria\\Source\\Repos\\GioLucc\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\EjerEncap1\\EjerEncap1\\obj\\",
+      "outputPath": "C:\\Users\\Maria\\source\\repos\\GioLucc\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\EjerEncap1\\EjerEncap1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Maria\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -79,24 +79,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[5.0.0, 5.0.0]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[5.0.17, 5.0.17]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[5.0.0, 5.0.0]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[5.0.0, 5.0.0]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"

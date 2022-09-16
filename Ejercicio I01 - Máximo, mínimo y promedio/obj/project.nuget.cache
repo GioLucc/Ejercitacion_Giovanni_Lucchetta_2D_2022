@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1kiCUIZJExQJSsM2X565tt9JS3Y6e1kJCo99dzcV5DPqX3D8nBPnopEwXsj1wVWqDumlWzK8Au2rUSdFsS+wqg==",
+  "dgSpecHash": "Mt5+PCS1+WrAHeYhvE5Xhk3FF2wgUS7aETASBX4iBlmE4f3uLiQ0+uwvhIILbm/PXvu+GSqHAyTRDXhoG64x9Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\Maria\\source\\repos\\GioLucc\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\Ejercicio I01 - Máximo, mínimo y promedio\\Ejercicio I01 - Máximo, mínimo y promedio.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Maria\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
-    "C:\\Users\\Maria\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\Maria\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\Maria\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

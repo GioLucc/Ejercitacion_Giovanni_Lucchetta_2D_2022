@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XQFRDvsx+bkNo7dRfQipihLVLUfPPBVnd8Yucu8EG86k+vm9w3G1pI1hoysUd5d68eYZyKbojbTC7uq6KuE2Rw==",
+  "dgSpecHash": "HCUhFFI3pzmQdseLHAE10A33J2EPfc9TqGNy4hPw3zagK4JaIOIOmAVvna3xZpdQkywZQ96Poqy4DbaXKHUGuw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Maria\\source\\repos\\GioLucc\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\Anotaciones [Clase 3]\\Anotaciones [Clase 3].csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Maria\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
-    "C:\\Users\\Maria\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\Maria\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\Maria\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

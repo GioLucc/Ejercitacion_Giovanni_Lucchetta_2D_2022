@@ -1,0 +1,15 @@
+C:\Users\Maria\source\repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\Anotaciones [Clase 7]\bin\Debug\net6.0\Anotaciones [Clase 7].exe
+C:\Users\Maria\source\repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\Anotaciones [Clase 7]\bin\Debug\net6.0\Anotaciones [Clase 7].deps.json
+C:\Users\Maria\source\repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\Anotaciones [Clase 7]\bin\Debug\net6.0\Anotaciones [Clase 7].runtimeconfig.json
+C:\Users\Maria\source\repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\Anotaciones [Clase 7]\bin\Debug\net6.0\Anotaciones [Clase 7].dll
+C:\Users\Maria\source\repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\Anotaciones [Clase 7]\bin\Debug\net6.0\Anotaciones [Clase 7].pdb
+C:\Users\Maria\source\repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\Anotaciones [Clase 7]\obj\Debug\net6.0\Anotaciones [Clase 7].csproj.AssemblyReference.cache
+C:\Users\Maria\source\repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\Anotaciones [Clase 7]\obj\Debug\net6.0\Anotaciones [Clase 7].GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria\source\repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\Anotaciones [Clase 7]\obj\Debug\net6.0\Anotaciones [Clase 7].AssemblyInfoInputs.cache
+C:\Users\Maria\source\repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\Anotaciones [Clase 7]\obj\Debug\net6.0\Anotaciones [Clase 7].AssemblyInfo.cs
+C:\Users\Maria\source\repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\Anotaciones [Clase 7]\obj\Debug\net6.0\Anotaciones [Clase 7].csproj.CoreCompileInputs.cache
+C:\Users\Maria\source\repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\Anotaciones [Clase 7]\obj\Debug\net6.0\Anotaciones [Clase 7].dll
+C:\Users\Maria\source\repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\Anotaciones [Clase 7]\obj\Debug\net6.0\refint\Anotaciones [Clase 7].dll
+C:\Users\Maria\source\repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\Anotaciones [Clase 7]\obj\Debug\net6.0\Anotaciones [Clase 7].pdb
+C:\Users\Maria\source\repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\Anotaciones [Clase 7]\obj\Debug\net6.0\Anotaciones [Clase 7].genruntimeconfig.cache
+C:\Users\Maria\source\repos\GioLucc\Ejercitacion_Giovanni_Lucchetta_2D_2022\Anotaciones [Clase 7]\obj\Debug\net6.0\ref\Anotaciones [Clase 7].dll

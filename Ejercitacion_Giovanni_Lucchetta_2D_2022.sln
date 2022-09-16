@@ -49,9 +49,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clase 6", "Clase 6", "{8FF1
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio I01 - ¡Hola, Windows Forms!", "Ejercicio I01 - ¡Hola, Windows Forms!\Ejercicio I01 - ¡Hola, Windows Forms!.csproj", "{D7B7A67E-A836-4888-AFF6-0AD2DBD0CAAC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio I02 - Registrate", "Ejercicio I02 - Registrate\Ejercicio I02 - Registrate.csproj", "{A784E5DC-537D-4F37-9A75-E253F7047B90}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio I02 - Registrate", "Ejercicio I02 - Registrate\Ejercicio I02 - Registrate.csproj", "{A784E5DC-537D-4F37-9A75-E253F7047B90}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaRegistrate", "BibliotecaRegistrate\BibliotecaRegistrate.csproj", "{022A195C-D85D-41CC-94C1-1FBCAB06AB8E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BibliotecaRegistrate", "BibliotecaRegistrate\BibliotecaRegistrate.csproj", "{022A195C-D85D-41CC-94C1-1FBCAB06AB8E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clase 7", "Clase 7", "{93AD304C-92A2-4C31-80AB-27CEF42196EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anotaciones [Clase 7]", "Anotaciones [Clase 7]\Anotaciones [Clase 7].csproj", "{ED14239E-65F3-4CB2-AA34-16FF62F652E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +139,10 @@ Global
 		{022A195C-D85D-41CC-94C1-1FBCAB06AB8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{022A195C-D85D-41CC-94C1-1FBCAB06AB8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{022A195C-D85D-41CC-94C1-1FBCAB06AB8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED14239E-65F3-4CB2-AA34-16FF62F652E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED14239E-65F3-4CB2-AA34-16FF62F652E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED14239E-65F3-4CB2-AA34-16FF62F652E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED14239E-65F3-4CB2-AA34-16FF62F652E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -159,6 +167,7 @@ Global
 		{D7B7A67E-A836-4888-AFF6-0AD2DBD0CAAC} = {8FF1936E-668A-4B4F-9C47-06E301194878}
 		{A784E5DC-537D-4F37-9A75-E253F7047B90} = {8FF1936E-668A-4B4F-9C47-06E301194878}
 		{022A195C-D85D-41CC-94C1-1FBCAB06AB8E} = {8FF1936E-668A-4B4F-9C47-06E301194878}
+		{ED14239E-65F3-4CB2-AA34-16FF62F652E2} = {93AD304C-92A2-4C31-80AB-27CEF42196EA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {22252FEF-1937-4A26-93E4-57B85D8286DC}

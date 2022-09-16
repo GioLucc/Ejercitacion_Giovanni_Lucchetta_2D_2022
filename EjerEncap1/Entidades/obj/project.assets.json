@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Maria\\Source\\Repos\\GioLucc\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\EjerEncap1\\Entidades\\Entidades.csproj",
+      "projectUniqueName": "C:\\Users\\Maria\\source\\repos\\GioLucc\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\EjerEncap1\\Entidades\\Entidades.csproj",
       "projectName": "Entidades",
-      "projectPath": "C:\\Users\\Maria\\Source\\Repos\\GioLucc\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\EjerEncap1\\Entidades\\Entidades.csproj",
+      "projectPath": "C:\\Users\\Maria\\source\\repos\\GioLucc\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\EjerEncap1\\Entidades\\Entidades.csproj",
       "packagesPath": "C:\\Users\\Maria\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Maria\\Source\\Repos\\GioLucc\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\EjerEncap1\\Entidades\\obj\\",
+      "outputPath": "C:\\Users\\Maria\\source\\repos\\GioLucc\\Ejercitacion_Giovanni_Lucchetta_2D_2022\\EjerEncap1\\Entidades\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Maria\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,20 +56,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[5.0.0, 5.0.0]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[5.0.0, 5.0.0]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[5.0.0, 5.0.0]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
